@@ -1,16 +1,12 @@
+name: "Bug report"
+description: "Describe el error"
+title: "[BUG] - "
+labels: ["bug"]
+body:
+  - type: textarea
+    attributes:
+      label: "¿Qué pasó?"
 
-
-name: "🐛 Bug Report"
-
-about: "Reportar un error para ayudarnos a mejorar el proyecto."
-
-title: "[BUG] - Descripción corta del error"
-
-labels: bug
-
-assignees: ""
-
----
 
 ## 🐛 Bug Report
 
